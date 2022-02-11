@@ -4,3 +4,8 @@ The Purpose of this lab was to create a memory NAND cell. This diagram that is s
 
 ![image](https://user-images.githubusercontent.com/73076876/153519573-5baa1b99-4c81-47d4-9d68-082f6a599806.png)
 
+## Issues
+More work is required in the report!
+
+There could be issues within the report!
+
